@@ -1,0 +1,7 @@
+const PI = 3.14
+prevents reassigning PI to 42 or something else.
+
+1. 'var' variables have function scope, 'let' variables have block scope.
+2. 'var' variables can be redeclared and reassigned, 'const' variables cannot be either. 
+3. 'let' variables can be reassigned, 'const' variables cannot.
+4. 'Hoisting' allows variables and functions to be referenced before they are declared in the code.
